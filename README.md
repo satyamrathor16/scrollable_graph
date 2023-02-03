@@ -1,5 +1,5 @@
 # Scrollable Graph
 
-https://user-images.githubusercontent.com/87350503/216548660-43a41980-1291-4f14-bc48-a36ac1110e54.mp4
+![line graph 1](https://user-images.githubusercontent.com/87350503/216551150-fd8e64f1-5af1-463b-81c0-1f7001ab64e9.gif)
 
 I have developed this beautiful graph where you can also scroll to see the value.
